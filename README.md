@@ -24,7 +24,7 @@ Edit
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/Plant_Disease_Prediction.git  
+git clone https://github.com/OmKale000/Plant_Disease_Detection/tree/main
 cd Plant_Disease_Prediction  
 2️⃣ Install dependencies:
 
