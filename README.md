@@ -1,4 +1,5 @@
 🌿 Plant Disease Prediction using CNN 🌱
+
 A deep learning-based web application for detecting plant diseases using Convolutional Neural Networks (CNNs). The app is built with TensorFlow and Streamlit for easy deployment and user interaction.
 
 🚀 Features
